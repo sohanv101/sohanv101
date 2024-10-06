@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Sohan (you can call me Soh)
-- 👀 I’m interested in AI & self-driving
-- 🌱 I’m currently learning deep learning using TF
+- 👀 I’m interested in AI & computer vision
+- 🌱 I’m currently learning deep learning and RAG
 - 💞️ I’m looking to collaborate on projects involving AI&ML, Cloud and full-stack
 - 📫 How to reach me : Email - sohan.venkatesh@outlook.com
 - 😄 Pronouns: He/him
