@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects involving deep learning, generative AI and full-stack development.
 - 📫 How to reach me : Email - sohan.venkatesh@outlook.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: You can send a text from a calculator :)
+- ⚡ Fun fact: More people own a smartphone than a toothbrush :)
 
 <!---
 sohanv101/sohanv101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
